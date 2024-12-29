@@ -20,7 +20,6 @@ public class Lessons42577 {
 
             }
 
-
             System.out.println(phone_book[i]);
         }
 
